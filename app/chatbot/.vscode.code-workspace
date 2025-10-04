@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../.vscode"
+		},
+		{
+			"path": "../../agri-risk-management-app"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../components"
+		},
+		{
+			"path": "../../hooks"
+		},
+		{
+			"path": "../../lib"
+		},
+		{
+			"path": "../../public"
+		},
+		{
+			"path": "../../styles"
+		}
+	]
+}
